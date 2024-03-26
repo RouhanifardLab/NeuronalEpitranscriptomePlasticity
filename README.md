@@ -6,7 +6,9 @@ In this GitHub repository, you will find all the code used for the analysis/gene
 ## Summary
 
 The Figures.r R script can be executed in RStudio.
-The CSV files containing the p-values analysis for psi detection has been generated using [p-Mod ID](github.com/RouhanifardLab/PsiNanopore).
+
+The CSV files containing the p-values analysis for psi detection has been generated using [p-Mod ID](https://github.com/RouhanifardLab/PsiNanopore).
+
 The SNR files were generated using the SNR_marginal_likelihood.py script, executable in python.   
 
 
